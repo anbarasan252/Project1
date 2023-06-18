@@ -458,3 +458,4 @@ my_app_BE/serviceOne/node_modules/object-assign/license
 my_app_BE/serviceOne/node_modules/object-assign/package.json
 my_app_BE/serviceOne/node_modules/object-assign/readme.md
 .gitignore
+my_app_BE/serviceOne/package-lock.json
