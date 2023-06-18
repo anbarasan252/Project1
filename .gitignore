@@ -447,3 +447,14 @@ my_app_BE/node_modules/vary/index.js
 my_app_BE/node_modules/vary/LICENSE
 my_app_BE/node_modules/vary/package.json
 my_app_BE/node_modules/vary/README.md
+my_app_BE/serviceOne/node_modules/cors/CONTRIBUTING.md
+my_app_BE/serviceOne/node_modules/cors/HISTORY.md
+my_app_BE/serviceOne/node_modules/cors/LICENSE
+my_app_BE/serviceOne/node_modules/cors/package.json
+my_app_BE/serviceOne/node_modules/cors/README.md
+my_app_BE/serviceOne/node_modules/cors/lib/index.js
+my_app_BE/serviceOne/node_modules/object-assign/index.js
+my_app_BE/serviceOne/node_modules/object-assign/license
+my_app_BE/serviceOne/node_modules/object-assign/package.json
+my_app_BE/serviceOne/node_modules/object-assign/readme.md
+.gitignore
